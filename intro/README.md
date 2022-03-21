@@ -1,3 +1,71 @@
+habilitar hyper-V no Windows Server 2008
+
+Server Manager
+
+Clicar em Start
+
+Administrative Toolss
+
+Clicar em Server Manager
+
+Add Roles
+
+selecionar a opcao Hyper-V em Roles
+
+selecionar uma placa de rede para a rede virtual
+
+reiniciar o servidor 
+
+Criar a maquina virtual de exemplo
+
+Acessar Server Manager
+
+Roles
+
+Hyper-V
+
+Hyper-V Manager
+
+Acessar o menu Action - New - Virtual Machine - Wizard
+
+Especificar o nome da VM
+
+Atribuir a quantidade  de memÃ³ria RAM
+
+selecionar o adaptador de rede virtual
+
+conectar um disco
+
+escolher criar um disco virtual
+
+escolher usar um disco existente
+
+realizar a configuracao do sistema operacional
+
+clicar com botaodireito na Vm
+
+clicar em Settings
+
+IDE Controller 1, selecione a imagem do Sistema Operacional
+
+Clicar em conectar a VM
+
+Ligar a VM
+
+instalar o sistema operacional
+
+hypervisor do tipo 2
+
+Este tipo de arquitetura necessita do sistema operacional para que sejam executadas as mÃ¡quinas virtuais
+
+Sistema operacional o host
+
+
+
+
+
+
+
 Primeiramente se faz necessário abrir o painel de controle
 
 Ir na opção Desinstalar ou alterar programa
@@ -55,4 +123,16 @@ Serviço Suporte Básico à disco rígido SATA - 1 ano
 
 
 A virtualização é muito importante pois conforme a necessidade você pode aumentar ou diminuir as configurações do hardware
+
+
+
+
+
+
+
+
+
+
+
+
 
