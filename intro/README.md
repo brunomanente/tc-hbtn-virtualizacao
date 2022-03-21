@@ -123,7 +123,7 @@ Serviço Suporte Básico à disco rígido SATA - 1 ano
 
 
 A virtualização é muito importante pois conforme a necessidade você pode aumentar ou diminuir as configurações do hardware
-
+E para este caso acima é necessario refazer outra cotação de um hardware mais atualizado.
 
 
 
